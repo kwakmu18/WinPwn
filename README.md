@@ -29,8 +29,8 @@ These are the list of useful references I've checked out while studying Windows 
 - [Reversing Microsoft Visual C++ Part I: Exception Handling](http://www.openrce.org/articles/full_view/21)
 
 ### CFG (Control Flow Guard)
-- [Bypassing Control Flow Guard in Windows 10](https://improsec.com/tech-blog/bypassing-control-flow-guard-in-windows-10)
-- [Exploring Control Flow Guard in Windows 10](https://www.trendmicro.com/en_us/research/15/a/exploring-control-flow-guard-in-windows-10.html)
+- [Bypassing Control Flow Guard in Windows 10](https://web.archive.org/web/20241001142839/https://blog.improsec.com/tech-blog/bypassing-control-flow-guard-in-windows-10)
+- [Exploring Control Flow Guard in Windows 10](https://web.archive.org/web/20201108133734/https://www.trendmicro.com/en_us/research/15/a/exploring-control-flow-guard-in-windows-10.html)
 - [Windows 10 Control Flow Guard Internals](http://www.powerofcommunity.net/poc2014/mj0011.pdf)
 - [Disarming Control Flow Guard Using Advanced Code Reuse Attacks](https://web.archive.org/web/20170522011815/https://www.endgame.com/blog/disarming-control-flow-guard-using-advanced-code-reuse-attacks)
 - [Let’s talk about CFI: Microsoft Edition](https://blog.trailofbits.com/2016/12/27/lets-talk-about-cfi-microsoft-edition/)
